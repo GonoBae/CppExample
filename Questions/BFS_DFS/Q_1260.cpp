@@ -1,6 +1,3 @@
-// Git Diff Test
-// haha
-// LOL
 #include <iostream>
 #include <algorithm>
 #include <vector>
